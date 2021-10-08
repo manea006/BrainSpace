@@ -55,4 +55,11 @@ Gradients of microstructural markers.
   of cortical gradients. Preprint: https://www.biorxiv.org/content/10.1101/706341v1
   <https://www.biorxiv.org/content/10.1101/706341v1.abstract>`_
 
+Functional gradients of the nonhuman primate connectome.
+
+* `Manea, A.M.G., Zilverstand, A., Ugurbil, K., Heilbronner, S.R. & Zimmermann, J. (2021). 
+  Intrinsic timescales as an organizational principle of neural processing across the whole rhesus macaque brain.
+  Preprint: https://www.biorxiv.org/content/10.1101/2021.10.05.463277v1
+  <https://www.biorxiv.org/content/10.1101/2021.10.05.463277v1>`_
+
 Please send us your gradient papers, so that we can list them here as well! 
